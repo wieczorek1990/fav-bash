@@ -14,6 +14,6 @@ CUR=1
 while IFS= read
 do
 	echo -n -e "\r$CUR/$COUNT"
-	cp "$REPLY" "$DEST"
+	cp -u "$REPLY" "$DEST"
 	((CUR++))
 done <<< "$FILES"
