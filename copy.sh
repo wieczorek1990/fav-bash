@@ -17,3 +17,4 @@ do
 	cp -u "$REPLY" "$DEST"
 	((CUR++))
 done <<< "$FILES"
+echo
