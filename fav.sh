@@ -33,7 +33,7 @@ Syntax:
 	v) set verbose on
 	q) do not display progess information
 Example usage:
-$ ~/Scripts/fav/fav.sh -d /media/data/Music -p /media/data/Music/wieczorek1990_lovedtracks.xspf -e "(mp3|flac|ogg|wav)" -o /media/data/Music/Ulubione.xspf
+$ ~/Skrypty/fav/fav.sh -d /media/luke/data/Muzyka -p ~/Dropbox/Dokumenty/Muzyka/wieczorek1990_lovedtracks.xspf -e "(mp3|flac|ogg)" -o ~/Dropbox/Dokumenty/Muzyka/Ulubione.xspf
 Author: Łukasz Wieczorek
 Contact: wieczorek1990 [at] gmail [dot] com
 EOF
