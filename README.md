@@ -1,4 +1,4 @@
-fav_bash
+fav-bash
 ===
 
 ### This is quite old and you should use [fav_ruby](https://github.com/wieczorek1990/fav_ruby) instead.
